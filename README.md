@@ -47,12 +47,14 @@
 </ul>
 
 <h3 align="center">Control Room</h3>
-- This room will be a main hub from where the whole college will be controlled.
-- In reality there will be computers and screens to monitor the college but in our case we have put all microcontrollers, batteries and breadboards in the room.
+<ul>
+<li> This room will be a main hub from where the whole college will be controlled.</li>
+<li> In reality there will be computers and screens to monitor the college but in our case we have put all microcontrollers, batteries and breadboards in the room.</li>
 <b>TODO: </b> Use multiple breadboards to manage jumper wires.
 
 <h3 align="center">Roof</h3>
--  Nothing special in the roof but Solar Panels with auto rotation are installed there.
+<ul>
+<li> Nothing special in the roof but Solar Panels with auto rotation are installed there.</li></ul>
 <b>TODO: </b> Add at least 2 solar panels with auto rotation.
 
 
