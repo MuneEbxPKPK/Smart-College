@@ -17,6 +17,8 @@
 - Rain detection and Automatic Solar Panel rotation.
 - A remote controlled car with a camera attached at the front for a live streaming.
 
+<b>To get a brief overview of the features and their working, please see the uploaded pdf in this repository</b>
+
 <h2 align="center" color="yellow">Structure</h2>
 
 - It consists of 3 Floors, 1 Building for Parking, 1 small Building For Microcontrollers and other stuff, and 1 Caffetaria.
