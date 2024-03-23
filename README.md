@@ -2,9 +2,7 @@
 <h3 align="center">An IoT Project for PGC Robotics Exhibition Rawalpindi-Islamabad 2024</h3>
 
 
-- 🔭 Here is a Small Photo Gallery of the project [Click Here](https://postimg.cc/gallery/tQjTtz1s)
-
-- 🌱 This Project is to automate our colleges by introducing many Smart Features using IoT
+- 🌱 This Project showcases a way to automate our colleges by introducing many Smart Features using IoT
 
 
 
