@@ -37,12 +37,14 @@
 - There is a small so called area in the front of the second floor where you can add chaira and other stuff for better look, which will be a TODO.
 
 <h3 align="center">Parking Building</h3>
-- It consists of two Floors
-- There are also two lifts installed on the back side to transfer a vehicle from Ground to First floor of parking (Lift 1).
-- Second lift is used to transfer Cars from first floor to ground floor of the Parking (Lift 2).
-- The Entry and Exit are also part of the parking system. The reason for this barrier-checkup is again to ensure security. HOW? Well This is completely up to the security team that which cars should be allowed to enter and which should be stopped. But for normal cars, It is fully Automatic.
-- There are some colorful LEDs attached alongside the road just for a good look and can also act as street lights.
+<ul>
+<li>It consists of two Floors</li>
+<li> There are also two lifts installed on the back side to transfer a vehicle from Ground to First floor of parking (Lift 1).</li>
+<li> Second lift is used to transfer Cars from first floor to ground floor of the Parking (Lift 2).</li>
+<li> The Entry and Exit are also part of the parking system. The reason for this barrier-checkup is again to ensure security. HOW? Well This is completely up to the security team that which cars should be allowed to enter and which should be stopped. But for normal cars, It is fully Automatic.</li>
+<li> There are some colorful LEDs attached alongside the road just for a good look and can also act as street lights.</li>
 <b>TODO: </b> You can add another button on the security check post that you will create if you want. Purpose of this button will be to stop unauthorize cars. Who will press this button? If security team sense any danger from a car it can stop the barrier to open by simple pressing that button.
+</ul>
 
 <h3 align="center">Control Room</h3>
 - This room will be a main hub from where the whole college will be controlled.
