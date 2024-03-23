@@ -8,10 +8,14 @@
 
 <h2 align="center">Features</h2>
 
-- The Project offers Multiple features.-> Blynk App To Control LEDs And Door Locks.
+- Blynk App To Control LEDs And Door Locks.
 - A Face attendance system using Face Recognition Libraries in Python for students
 - An Hazard Detection System For security of Students. This systen detects Bad Air Quality, Flood Detection, Temperature, Humidity and Earthquake. If any danger is detected, Buzzer is used as an emergency alarm.
 - An AI Assitant build using JavaScript using built in libraries and functions along with HTML and CSS
+- Smart Entry and Exit System.
+- Smart Lifts.
+- Rain detection and Automatic Solar Panel rotation.
+- A remote controlled car with a camera attached at the front for a live streaming.
 
 <h2 align="center" color="yellow">Structure</h2>
 
@@ -43,7 +47,8 @@
 <li> Second lift is used to transfer Cars from first floor to ground floor of the Parking (Lift 2).</li>
 <li> The Entry and Exit are also part of the parking system. The reason for this barrier-checkup is again to ensure security. HOW? Well This is completely up to the security team that which cars should be allowed to enter and which should be stopped. But for normal cars, It is fully Automatic.</li>
 <li> There are some colorful LEDs attached alongside the road just for a good look and can also act as street lights.</li>
-<b>TODO: </b> You can add another button on the security check post that you will create if you want. Purpose of this button will be to stop unauthorize cars. Who will press this button? If security team sense any danger from a car it can stop the barrier to open by simple pressing that button.
+<b>TODO: </b> You can add another button on the security check post that you will create if you want. Purpose of this button will be to stop unauthorize cars. Who will press this button? If security team sense any danger from a car it can stop the barrier to open by simple pressing that button.<br>
+<b>TODO: </b> Use an OLED at parking to greet the coming cars and to display some useful data like empty slots in the parking.
 </ul>
 
 <h3 align="center">Control Room</h3>
