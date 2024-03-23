@@ -41,7 +41,7 @@
 - There are also two lifts installed on the back side to transfer a vehicle from Ground to First floor of parking (Lift 1).
 - Second lift is used to transfer Cars from first floor to ground floor of the Parking (Lift 2).
 - The Entry and Exit are also part of the parking system. The reason for this barrier-checkup is again to ensure security. HOW? Well This is completely up to the security team that which cars should be allowed to enter and which should be stopped. But for normal cars, It is fully Automatic.
-**TODO: ** You can add another button on the security check post that you will create if you want. Purpose of this button will be to stop unauthorize cars. Who will press this button? If security team sense any danger from a car it can stop the barrier to open by simple pressing that button.
+**TODO:** You can add another button on the security check post that you will create if you want. Purpose of this button will be to stop unauthorize cars. Who will press this button? If security team sense any danger from a car it can stop the barrier to open by simple pressing that button.
 - There are some colorful LEDs attached alongside the road just for a good look and can also act as street lights.
 
 <h3 align="center">Control Room</h3>
