@@ -5,8 +5,7 @@
 - 🌱 This Project showcases a way to automate our colleges by introducing many Smart Features using IoT
 
 - Watch my project videos on : [youtube](https://www.youtube.com/playlist?list=PLWeCbB33b_yjVHzSKjmT7qLh9iEGZ1RJP)
-- For Article on the project visit [My LinkedIn]() (Coming Soon)
-
+- For Article on the project visit [My LinkedIn](www.linkedin.com/pulse/smart-college-iot-project-muneeb-ul-karim-syszf/)
 
 
 <h2 align="center">Features</h2>
