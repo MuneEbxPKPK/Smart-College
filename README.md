@@ -6,6 +6,7 @@
 
 - Watch my project videos on : [youtube](https://www.youtube.com/playlist?list=PLWeCbB33b_yjVHzSKjmT7qLh9iEGZ1RJP)
 - For Article on the project visit [My LinkedIn](https://www.linkedin.com/pulse/smart-college-iot-project-muneeb-ul-karim-syszf/)
+- For Image Gallery on the project, [Click Here](https://mega.nz/folder/VEYFABQC#Yrs3mGbOgqM_eWazQAsaSQ)
 
 
 <h2 align="center">Features</h2>
