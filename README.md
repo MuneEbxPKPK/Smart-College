@@ -1,6 +1,8 @@
 <h1 align="center">Smart College</h1>
 <h3 align="center">An IoT Project for PGC Robotics Exhibition Rawalpindi-Islamabad 2024</h3>
 
+The "Smart College" project is an IoT-based initiative designed to enhance campus automation and improve operational efficiency. It integrates advanced technologies such as facial recognition for automatic attendance, a smart parking system with automated vertical lifts, and an app-controlled system for managing lights and doors. The project also includes an AI assistant, "Jerry," to assist with student queries, and a hazard detection system that uses sensors to monitor potential dangers like earthquakes and air quality issues, with real-time data uploaded to the cloud. Additionally, it features smart rain detection and automated solar panel rotation for sustainable energy, as well as a surveillance car equipped with a live camera feed for campus monitoring. Together, these innovations create a modern, tech-driven environment that enhances both safety and convenience for students and staff.
+
 
 - 🌱 This Project showcases a way to automate our colleges by introducing many Smart Features using IoT
 
